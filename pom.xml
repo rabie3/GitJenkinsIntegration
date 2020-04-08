@@ -64,10 +64,6 @@
 				<artifactId>maven-war-plugin</artifactId>
 					<executions>
 						<execution>
-							<id>default-war</id>
-							<phase>none</phase>
-						</execution>
-						<execution>
 							<id>war-exploded</id>
 							<configuration>
 								<webappDirectory>target/deploy</webappDirectory>
