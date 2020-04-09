@@ -8,6 +8,6 @@ public class JnoriController {
 
 	@GetMapping("/")
 	public String getMessage() {
-		return "Welcome to Rabih GitJenkins Integration!";
+		return "I am making critical change be careful";
 	}
 }
