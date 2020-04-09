@@ -3,6 +3,6 @@ package com.jnori.controller;
 public class NewController {
 	
 	public String newMessage() {
-		return "Welcome to the new contorller!";
+		return "I am still making important changes while you are eating chips!";
 	}
 }
